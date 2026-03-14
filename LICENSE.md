@@ -1,6 +1,6 @@
 MathFlow Strict Non-Commercial License (SNCL) v1.0
 
-Copyright © 2026 Redpanda719
+Copyright © 2026 Codefreed
 
 This software ("MathFlow") is provided free of charge for personal,
 educational, and non-commercial use only.
@@ -9,7 +9,7 @@ Permission is granted to use, copy, modify, and distribute MathFlow
 subject to ALL of the following conditions:
 
 1. Attribution
-   You must give clear credit to Redpanda719 and link to the original
+   You must give clear credit to Codefreed and link to the original
    MathFlow repository.
 
 2. Non-Commercial Use Only
@@ -44,7 +44,7 @@ subject to ALL of the following conditions:
 
 7. Commercial Licensing
    Commerical use is strictly prohibited.  Any commercial use requires prior explicit written permission
-   from Redpanda719.
+   from Codefreed.
 
 8. No Warranty
    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
